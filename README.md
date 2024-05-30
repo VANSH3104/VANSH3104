@@ -13,7 +13,7 @@ Location: India 🇮🇳
 - 🛠️ DevOps
 
 ## Skills:
-- 🖥️ Frontend: HTML, CSS, JavaScript
+- 🖥️ Frontend: HTML, CSS, JavaScript, React
 - 💻 Backend: Express.js, Node.js, MongoDB
 - 👨‍💼 Programming Languages: Java, Python, C, C++
 - 🔧 DevOps: Git, Docker, Jenkins, and more
