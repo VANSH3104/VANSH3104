@@ -14,8 +14,8 @@ Location: India 🇮🇳
 
 ## Skills:
 - 🖥️ Frontend: HTML, CSS, JavaScript, React
-- 💻 Backend: Express.js, Node.js, MongoDB
-- 👨‍💼 Programming Languages: Java, Python, C, C++
+- 💻 Backend: Express.js, Node.js, MongoDB orms nextjs 
+- 👨‍💼 Programming Languages: Java, Python, C, C++, javascript, typescript
 - 🔧 DevOps: Git, Docker, Jenkins, and more
 
 ## Projects:
