@@ -1,7 +1,7 @@
 ## About
 Name: Vansh Kabra
 
-Location: India 🇮🇳
+Location: Earth 🌍
 
 ## Bio:
 👨‍💻 Engineering student with a passion for technology and a hunger for learning. I thrive on exploring new technologies and pushing the boundaries of what's possible. My interests lie in cloud computing, web development, Java programming, and DevOps practices.
