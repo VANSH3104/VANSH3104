@@ -28,4 +28,4 @@ Location: Earth 🌍
 
 - 📧 Email: vanshkabra05@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/vansh-kabra-0a110327b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-- 𝕏 x: @vanshkabra31
+- 𝕏 x: https://x.com/VanshKabra31
