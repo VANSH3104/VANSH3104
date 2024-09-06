@@ -20,6 +20,7 @@ Location: Earth 🌍
 
 ## Projects:
 - Message App https://message-web-qzt8.vercel.app/
+- Chess Game https://chess-ebon-one.vercel.app/
 
 ## Contributions:
 🌟 I'm eager to contribute to open-source projects and collaborate with others to create meaningful solutions. If you have a project in need of assistance or are seeking a collaborator, don't hesitate to reach out!
