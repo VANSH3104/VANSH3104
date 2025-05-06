@@ -19,6 +19,8 @@ Location: Earth 🌍
 - 🔧 DevOps: Git, Docker, Jenkins, and more
 
 ## Projects:
+- CollabBoard https://vk-board.netlify.app/
+- Crypto Wallet https://cryptowallet-tau.vercel.app/
 - Message App https://message-web-qzt8.vercel.app/
 - Chess Game https://chess-q4ps.vercel.app/
 
