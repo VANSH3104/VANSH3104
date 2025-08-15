@@ -21,6 +21,7 @@ Location: Earth 🌍
 ## Projects:
 - CollabBoard https://vk-board.netlify.app/
 - Crypto Wallet https://cryptowallet-tau.vercel.app/
+- freelancing dap https://freelancedapp.vercel.app/
 - Message App https://message-web-qzt8.vercel.app/
 - Chess Game https://chess-q4ps.vercel.app/
 
