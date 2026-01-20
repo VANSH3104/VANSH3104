@@ -98,8 +98,10 @@
 
 | 🚀 Project | 📝 Description | 💻 Tech Stack |
 |---------|-------------|------------|
+| [**AgentAi**](https://agent-ai-zeta-navy.vercel.app) | Real time Automated Ai Agents workflow  | TypeScript, trpc, Kafka |
 | [**CollabBoard**](https://vk-board.netlify.app/) | Real-time collaboration whiteboard | TypeScript, React, WebSocket |
 | [**Crypto Wallet**](https://cryptowallet-tau.vercel.app/) | Secure cryptocurrency wallet | TypeScript, Web3.js |
+| [**Worksphere**](https://work-sphere-dapp.vercel.app) | Decentralized freelancing platform | Rust, Solana, Smart contract |
 | [**Freelance DApp**](https://freelancedapp.vercel.app/) | Decentralized freelancing platform | TypeScript, Blockchain |
 | [**Message App**](https://message-web-qzt8.vercel.app/) | Real-time messaging application | JavaScript, Socket.io |
 | [**Chess Game**](https://chess-q4ps.vercel.app/) | Interactive chess game | JavaScript, React |
